@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Roasted coffee bean defects
+title: Identifying defects in roasted coffee beans using image classification algorithms
 message: >-
   Thanks for using my dataset! Please cite it using this
   file
