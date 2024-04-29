@@ -1,4 +1,4 @@
-# This directory contains the images of coffee beans used to train the classifier
+# The images of coffee beans are stored in the `data` directory, with an annotation file provided.
 
 ## Defect glossary
 
